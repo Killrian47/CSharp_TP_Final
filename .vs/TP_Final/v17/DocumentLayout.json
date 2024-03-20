@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E497513-499C-4512-9A28-82FEA0BC01A8}|TP_FinalTests\\TP_FinalTests.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_finaltests\\methods\\crudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E497513-499C-4512-9A28-82FEA0BC01A8}|TP_FinalTests\\TP_FinalTests.csproj|solutionrelative:tp_finaltests\\methods\\crudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\methods\\crudvehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\methods\\crudvehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\class\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\class\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\methods\\loadajsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\methods\\loadajsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\methods\\tris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\methods\\tris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|c:\\users\\killi\\desktop\\diginamic\\c#\\tp_final\\tp_final\\methods\\saveinfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B85AA3-1EB4-4772-BE2F-66A60DAA9E5F}|TP_Final\\TP_Final.csproj|solutionrelative:tp_final\\methods\\saveinfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDTests.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_FinalTests\\Methods\\CRUDTests.cs",
+              "RelativeDocumentMoniker": "TP_FinalTests\\Methods\\CRUDTests.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_FinalTests\\Methods\\CRUDTests.cs",
+              "RelativeToolTip": "TP_FinalTests\\Methods\\CRUDTests.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:57:31.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadAJsonFile.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\LoadAJsonFile.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Methods\\LoadAJsonFile.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\LoadAJsonFile.cs",
+              "RelativeToolTip": "TP_Final\\Methods\\LoadAJsonFile.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:09:23.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Program.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Program.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Program.cs",
+              "RelativeToolTip": "TP_Final\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:27:05.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDVehicule.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\CRUDVehicule.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Methods\\CRUDVehicule.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\CRUDVehicule.cs",
+              "RelativeToolTip": "TP_Final\\Methods\\CRUDVehicule.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAnwBIBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:58:56.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Class\\Voiture.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Class\\Voiture.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Class\\Voiture.cs",
+              "RelativeToolTip": "TP_Final\\Class\\Voiture.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCIAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:57:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Class\\Vehicule.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Class\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Class\\Vehicule.cs",
+              "RelativeToolTip": "TP_Final\\Class\\Vehicule.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA2wCYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:57:34.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tris.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\Tris.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Methods\\Tris.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\Tris.cs",
+              "RelativeToolTip": "TP_Final\\Methods\\Tris.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:48:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Class\\Camion.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Class\\Camion.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Class\\Camion.cs",
+              "RelativeToolTip": "TP_Final\\Class\\Camion.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:57:46.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaveInFile.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\SaveInFile.cs",
+              "RelativeDocumentMoniker": "TP_Final\\Methods\\SaveInFile.cs",
+              "ToolTip": "C:\\Users\\killi\\Desktop\\Diginamic\\C#\\TP_Final\\TP_Final\\Methods\\SaveInFile.cs",
+              "RelativeToolTip": "TP_Final\\Methods\\SaveInFile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:54:05.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
